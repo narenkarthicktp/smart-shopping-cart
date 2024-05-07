@@ -1,0 +1,14 @@
+# dependencies
+.venv/
+esp32-cam/.pio/
+
+# cache files
+.ccls
+compile_commands.json
+extra_scripts.py
+.cache/
+.clangd
+__pycache__/
+
+# sublime text
+*.sublime-project
